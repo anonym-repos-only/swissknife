@@ -17,7 +17,7 @@
 The first step is to get the source code for the task 2 from our repository:
 
 ```console
-$ git clone <repository>
+$ git clone https://github.com/anonym-repos-only/swissknife.git
 ```
 
 Use ```sudo``` to run the evaluations! The server starts freshly for each benchmark test. This takes a while, so please
@@ -25,7 +25,9 @@ be patient until the whole process will finish.
 
 You might grab a coffee...since the script needs about <b>32</b> minutes to test all servers.
 
-Run the evaluations with:
+The script for the evaluations is inside the folder ```./swiss-knife/task2```. 
+
+Run the evaluations with: 
 
 ```console
 $ cd task2
